@@ -5,15 +5,18 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ### The challenge
 
+- No access to design files :expressionless:
+
 Users should be able to:
 
-- See hover states for interactive elements
+- See hover states for interactive elements :yum:
 
 ### Solution
 
 - Built with: `HTML` `CSS`
+- Mobile first workflow
 
-[`Solution Link`](https://www.frontendmentor.io/solutions/only-html-and-css-p3jxyggcid) [`Live Site Link`](https://haquanq.github.io/fm-order-summary-component/)
+:link: [`Solution Link`](https://www.frontendmentor.io/solutions/only-html-and-css-p3jxyggcid) :link: [`Live Site Link`](https://haquanq.github.io/fm-order-summary-component/)
 
 ![](./.docs/design/desktop-design.jpg)
 
